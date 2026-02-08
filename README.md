@@ -1,2 +1,2 @@
-# building-an-image-classification-model-for-asian-and-african-elephants-lp-author
-Repository for liveProject: Building an Image Classification Model for Asian and African Elephants
+# an-elephant-image-classification-model-lp-author
+Repository for liveProject: An Elephant Image Classification Model
